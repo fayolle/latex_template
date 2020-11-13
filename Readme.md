@@ -1,1 +1,1 @@
-A minimal LaTeX template for manuscript. 
+A minimal LaTeX template. 
